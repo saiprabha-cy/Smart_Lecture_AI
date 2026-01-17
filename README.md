@@ -183,8 +183,9 @@ This project was developed as part of the **AICTE – EduNet / IBM Internship Pr
 
 **SaiPrabha C Y**
 Electronics and Communication Engineering
-*(Add LinkedIn / GitHub link if you want)*
+
 
 ---
 
 ⭐ *If you find this project useful, please give it a star!*
+
